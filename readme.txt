@@ -8,3 +8,4 @@ Creating a new branch is quick and simple
 FastForword mode will not save the info of branch if you delete the branch
 Git merge
 --Modified on dev of Bob;)
+--Marked by Fish
